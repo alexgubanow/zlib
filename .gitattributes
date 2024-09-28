@@ -11,6 +11,7 @@
 *.chm text !eol zos-working-tree-encoding=UTF-8
 *.cs text !eol zos-working-tree-encoding=UTF-8
 *.vcxproj text !eol zos-working-tree-encoding=UTF-8
+*.vcxproj.filters text !eol zos-working-tree-encoding=UTF-8
 *.sln text !eol zos-working-tree-encoding=UTF-8
 
 #  "-text" tells git the file is binary.
